@@ -2,42 +2,42 @@
     {
       "id": 1,
       "name": "Лосось в соусе терияки",
-      "image": "assets/image/img_1.png",
+      "image": "assets/images/img_1.png",
       "cookingTime": 45
     },
     {
       "id": 2,
-      "image": "assets/image/img_2.png",
+      "image": "assets/images/img_2.png",
       "name": "Поке боул с сыром тофу",
       "cookingTime": 30
     },
     {
       "id": 3,
-      "image": "assets/image/img_3.png",
+      "image": "assets/images/img_3.png",
       "name": "Стейк из говядины по-грузински с кукурузой",
       "cookingTime": 75
     },
     {
       "id": 4,
-      "image": "assets/image/img_4.png",
+      "image": "assets/images/img_4.png",
       "name": "Тосты с голубикой и бананом",
       "cookingTime": 45
     },
     {
       "id": 5,
-      "image": "assets/image/img_5.png",
+      "image": "assets/images/img_5.png",
       "name": "Паста с морепродуктами",
       "cookingTime": 25
     },
     {
       "id": 6,
-      "image": "assets/image/img_6.png",
+      "image": "assets/images/img_6.png",
       "name": "Бургер с двумя котлетами",
       "cookingTime": 60
     },
     {
       "id": 7,
-      "image": "assets/image/img_7.png",
+      "image": "assets/images/img_7.png",
       "name": "Пицца Маргарита домашняя",
       "cookingTime": 25
     }
